@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1417642552 source:c:\documents and settings\administrator\桌面\projet\projet\gris.cpp
+	"gris.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\projet\gris.h
+	"image.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\projet\image.h
+	<vector>
+	<stdexcept>
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\projet\ppm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"ppm.h"
+	"gris.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\projet\ppm.h
+	<string>
+	"image.h"
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\projet\seuillage.cpp
+	<cmath>
+	"image.h"
+	"sobel.h"
+	<iostream>
+
+1417642554 c:\documents and settings\administrator\桌面\projet\projet\sobel.h
+	"image.h"
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\projet\sobel.cpp
+	<cmath>
+	"sobel.h"
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\projet\superpixel.cpp
+	<cmath>
+	"superpixel.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\projet\superpixel.h
+	"image.h"
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\projet\main.cpp
+	<iostream>
+	<unistd.h>
+	"image.h"
+	"pgm.h"
+	"ppm.h"
+	"gris.h"
+	"sobel.h"
+	"seuillage.h"
+	"superpixel.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\projet\pgm.h
+	<string>
+	"image.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\projet\seuillage.h
+
+1418398656 source:c:\documents and settings\administrator\桌面\projet\projet\pgm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"pgm.h"
+
+1418498587 source:c:\documents and settings\administrator\桌面\projet\gris.cpp
+	"gris.h"
+	"image.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\gris.h
+	"image.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\image.h
+	<vector>
+	<stdexcept>
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\main.cpp
+	<iostream>
+	<unistd.h>
+	"image.h"
+	"pgm.h"
+	"ppm.h"
+	"gris.h"
+	"sobel.h"
+	"seuillage.h"
+	"superpixel.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\pgm.h
+	<string>
+	"image.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\ppm.h
+	<string>
+	"image.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\sobel.h
+	"image.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\seuillage.h
+
+1417642554 c:\documents and settings\administrator\桌面\projet\superpixel.h
+	"image.h"
+
+1418502696 source:c:\documents and settings\administrator\桌面\projet\pgm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"pgm.h"
+
+1418498516 source:c:\documents and settings\administrator\桌面\projet\ppm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"ppm.h"
+	"gris.h"
+
+1418503108 source:c:\documents and settings\administrator\桌面\projet\seuillage.cpp
+	<cmath>
+	"image.h"
+	"sobel.h"
+	<iostream>
+
+1418503685 source:c:\documents and settings\administrator\桌面\projet\sobel.cpp
+	<cmath>
+	"sobel.h"
+	<iostream>
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\superpixel.cpp
+	<cmath>
+	"superpixel.h"
+
+1418560092 source:f:\projet\gris.cpp
+	"gris.h"
+	"image.h"
+
+1417642552 f:\projet\gris.h
+	"image.h"
+
+1417642552 f:\projet\image.h
+	<vector>
+	<stdexcept>
+
+1417642552 source:f:\projet\main.cpp
+	<iostream>
+	<unistd.h>
+	"image.h"
+	"pgm.h"
+	"ppm.h"
+	"gris.h"
+	"sobel.h"
+	"seuillage.h"
+	"superpixel.h"
+
+1417642552 f:\projet\pgm.h
+	<string>
+	"image.h"
+
+1417642554 f:\projet\ppm.h
+	<string>
+	"image.h"
+
+1417642554 f:\projet\sobel.h
+	"image.h"
+
+1417642554 f:\projet\seuillage.h
+
+1417642554 f:\projet\superpixel.h
+	"image.h"
+
+1418517022 source:f:\projet\pgm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"pgm.h"
+
+1418517028 source:f:\projet\ppm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"ppm.h"
+	"gris.h"
+
+1418641834 source:f:\projet\seuillage.cpp
+	<cmath>
+	"image.h"
+	"sobel.h"
+	<iostream>
+	"ppm.h"
+
+1418503686 source:f:\projet\sobel.cpp
+	<cmath>
+	"sobel.h"
+	<iostream>
+
+1418641214 source:f:\projet\superpixel.cpp
+	<cmath>
+	"superpixel.h"
+

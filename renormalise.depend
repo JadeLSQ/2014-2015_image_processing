@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1418560091 source:c:\documents and settings\administrator\桌面\projet\gris.cpp
+	"gris.h"
+	"image.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\gris.h
+	"image.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\image.h
+	<vector>
+	<stdexcept>
+
+1418517021 source:c:\documents and settings\administrator\桌面\projet\pgm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"pgm.h"
+
+1417642552 c:\documents and settings\administrator\桌面\projet\pgm.h
+	<string>
+	"image.h"
+
+1418517026 source:c:\documents and settings\administrator\桌面\projet\ppm.cpp
+	<iostream>
+	<fstream>
+	"image.h"
+	"ppm.h"
+	"gris.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\ppm.h
+	<string>
+	"image.h"
+
+1418503685 source:c:\documents and settings\administrator\桌面\projet\sobel.cpp
+	<cmath>
+	"sobel.h"
+	<iostream>
+
+1417642554 c:\documents and settings\administrator\桌面\projet\sobel.h
+	"image.h"
+
+1418558931 source:c:\documents and settings\administrator\桌面\projet\superpixel.cpp
+	<cmath>
+	"superpixel.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\superpixel.h
+	"image.h"
+
+1417642552 source:c:\documents and settings\administrator\桌面\projet\renormalise.cpp
+	<iostream>
+	"image.h"
+	"pgm.h"
+	"gris.h"
+	"seuillage.h"
+
+1417642554 c:\documents and settings\administrator\桌面\projet\seuillage.h
+
